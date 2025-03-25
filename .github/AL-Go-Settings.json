@@ -1,0 +1,7 @@
+{
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/businesscentralapps/tmp4PczUI-AppSource@main",
+  "doNotPublishApps": false,
+  "type": "AppSource App",
+  "useCompilerFolder": false
+}
